@@ -38,7 +38,7 @@ My ability to think strategically and collaborate effectively allows me to ident
 - **Email**: nishantsood@duck.com
 
 
-##  GitHub Stats
+<!-- ##  GitHub Stats -->
 <!-- Optionally embed GitHub stats with a GitHub Readme Stats badge or widget -->
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=nishantsood1492&show_icons=true) -->
 

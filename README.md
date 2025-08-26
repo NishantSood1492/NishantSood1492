@@ -6,7 +6,8 @@
 I'm a Full‑Stack Engineer with a passion for building performant, user‑focused web applications. 
 
 Tech Stack
-![NextJS](<i class="devicon-nextjs-original-wordmark"></i>)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+          
 
 ##  Socials
 - **LinkedIn**: https://linkedin.com/in/nishantsood

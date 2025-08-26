@@ -3,7 +3,11 @@
 # Hi there, I'm Nishant Sood  👋
 
 ##  About Me
-I'm a Full‑Stack Engineer with a passion for building performant, user‑focused web applications. 
+I am a full stack developer with extensive experience in AWS Cloud technologies. I am passionate about designing and delivering innovative solutions that meet complex business requirements. With 6+ years of experience in the field, I am always looking for new and innovative ways to bring my clients visions to life.
+
+My technical expertise includes designing and implementing scalable and resilient systems on AWS, leveraging technologies such as EC2, Lambda, S3, DynamoDB, and RDS. I have a proven track record of leading cross-functional teams to deliver high-quality software products that exceed customer expectations.
+
+My ability to think strategically and collaborate effectively allows me to identify and implement the best technical solutions to address business challenges. With a deep commitment to delivering exceptional user experiences and an unwavering dedication to staying at the forefront of emerging technologies, I am constantly seeking to innovate and push the boundaries of what is possible with code. I look forward to the opportunity to bring my skills and passion to your next project.
 
 ## Tech Stack
 <p align="center">

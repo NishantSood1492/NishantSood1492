@@ -34,13 +34,13 @@ My ability to think strategically and collaborate effectively allows me to ident
 
 ##  Socials
 - **LinkedIn**: https://linkedin.com/in/nishantsood
-- **Personal Website**: https://nishantsood@vercel.app/about *(optional)*
+- **Personal Website**: https://nishantsood@vercel.app/about
 - **Email**: nishantsood@duck.com
 
 
 ##  GitHub Stats
 <!-- Optionally embed GitHub stats with a GitHub Readme Stats badge or widget -->
-![Stats](https://github-readme-stats.vercel.app/api?username=nishantsood1492&show_icons=true)
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=nishantsood1492&show_icons=true) -->
 
 
 Looking forward to collaborating—feel free to reach out!

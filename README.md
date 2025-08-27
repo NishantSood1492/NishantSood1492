@@ -42,9 +42,9 @@ My ability to think strategically and collaborate effectively allows me to ident
  --->
 
 ##  Socials
-- **LinkedIn**: https://linkedin.com/in/nishantsood
-- **Personal Website**: https://nishantsood@vercel.app/about
-- **Email**: nishantsood@duck.com
+- ![**LinkedIn**](https://linkedin.com/in/nishantsood)
+- ![**Personal Website**](https://nishantsood@vercel.app/about)
+- ![**Email**](mailto:nishantsood@duck.com)
 
 
 <!-- ##  GitHub Stats -->

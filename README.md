@@ -43,7 +43,6 @@ My ability to think strategically and collaborate effectively allows me to ident
 
 ##  Socials
 - **LinkedIn**: https://linkedin.com/in/nishantsood
-- **Personal Website**: https://nishantsood@vercel.app/about
 
 
 
